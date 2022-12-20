@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=300&section=header&text=도현%20Coding👩‍💻&fontSize=90)
 
 [![Python](https://img.shields.io/badge/Python-FF9900?style=flat-square&logo=Python&logoColor=gray)](https://github.com/dohyeonCD/Python_1)
 [![Python](https://img.shields.io/badge/Python-FF8800?style=flat-square&logo=Python&logoColor=gray)](https://github.com/dohyeonCD/Python_2)

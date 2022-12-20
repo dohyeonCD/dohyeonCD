@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=도현%20Coding👩‍💻&fontSize=70)
 
 
-### 🌱 Tech 🌱
+### 🌱 Studying 🌱
 
 [![Python](https://img.shields.io/badge/Python-FF9900?style=flat-square&logo=Python&logoColor=gray)](https://github.com/dohyeonCD/Python_1)
 [![Python](https://img.shields.io/badge/Python-FF8800?style=flat-square&logo=Python&logoColor=gray)](https://github.com/dohyeonCD/Python_2)

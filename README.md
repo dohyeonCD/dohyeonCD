@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 [![Python](https://img.shields.io/badge/Python-FF9900?style=flat-square&logo=Python&logoColor=gray)](https://github.com/dohyeonCD/Python_1)
 [![Python](https://img.shields.io/badge/Python-FF8800?style=flat-square&logo=Python&logoColor=gray)](https://github.com/dohyeonCD/Python_2)
 [![Python](https://img.shields.io/badge/Python-F46D01?style=flat-square&logo=Python&logoColor=gray)](https://github.com/dohyeonCD/Python_3)
+
+[![MySQL](https://img.shields.io/badge/MySQL-417598?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/dohyeonCD/SQL)

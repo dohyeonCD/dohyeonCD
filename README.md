@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 [![Excel](https://img.shields.io/badge/Excel-006600?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/dohyeonCD/Excel_2)
 
 [![Tableau](https://img.shields.io/badge/Tableau-FCFBFA?style=flat-square&logo=Tableau&logoColor=blue)](https://github.com/dohyeonCD/Tableau)
+[![Tableau](https://img.shields.io/badge/Tableau-F8F8F5?style=flat-square&logo=Tableau&logoColor=blue)](https://github.com/dohyeonCD/Tableau)

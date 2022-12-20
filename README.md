@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Python](https://img.shields.io/badge/Python-F37626?style=flat-square&logo=Python&logoColor=gray)](https://github.com/dohyeonCD/Python_3)
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/dohyeonCD/SQL)
-[![R](https://img.shields.io/badge/R-75AADB?style=flat-square&logo=RStudio&logoColor=gray)](https://github.com/dohyeonCD/R)
+[![R](https://img.shields.io/badge/R-75AADB?style=flat-square&logo=RStudio&logoColor=silver)](https://github.com/dohyeonCD/R)
 
 [![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://github.com/dohyeonCD/Excel_1)
 [![Excel](https://img.shields.io/badge/Excel-006600?style=flat-square&logo=microsoftexcel&logoColor=white)](https://github.com/dohyeonCD/Excel_2)

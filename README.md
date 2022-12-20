@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 
 [![MySQL](https://img.shields.io/badge/MySQL-417598?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/dohyeonCD/SQL)
 [![R](https://img.shields.io/badge/R-6CADDF?style=flat-square&logo=R&logoColor=gray)](https://github.com/dohyeonCD/R)
+[![Excel](https://img.shields.io/badge/Excel-37814A?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/dohyeonCD/Excel_1)
+[![Excel](https://img.shields.io/badge/Excel-006600?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/dohyeonCD/Excel_2)
